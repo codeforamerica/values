@@ -1,4 +1,4 @@
-Code for America's work is driven by a vision where cities truly work for the people, by the people, in the 21st century. 
+Code for America's work is driven by a vision of cities that truly work for the people, by the people, in the 21st century. 
 
 After working with nearly a hundred local governments and their communities, we're seeing patterns in those that can effectively serve their community and rise to meet the challenges of today and tomorrow.
 
