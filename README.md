@@ -19,7 +19,7 @@ After working with nearly a hundred local governments and their communities, we'
 
 ####We believe effective residents:
  
-1. **Get involved:** Be active and engaged in civic life, share opinions, and take responsibility for improving the community. 
+1. **Get involved:** Are active and engaged in civic life, share opinions, and take responsibility for improving the community. 
 
 2. **Collaborate with government:** Share time, expertise, and skills with government to build a better community together.  
  
