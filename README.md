@@ -10,7 +10,7 @@ After working with nearly a hundred local governments and their communities, we'
 
 3. **Collaborate with others:** Draw on the knowledge, skills, and experiences of residents, community groups, and other governing bodies to enhance existing capabilities of government.
 
-4. **Are open:** Drive transparency, accountability, and community engagement by making public data open and easily accessible.
+4. **Default to open:** Drive transparency, accountability, and community engagement by making public data open and easily accessible.
 
 5. **Use good data for better decisions:** Leverage data to drive insight and improvements into the way government processes and services work.
 	
